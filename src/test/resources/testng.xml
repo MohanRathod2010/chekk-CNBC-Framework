@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CNBC tests suite">
+  <test name="CNBC Tests">
+    <classes>
+      <class name="com.qa.CNBC.tests.SignInAccontPageTest"/>
+      <class name="com.qa.CNBC.tests.MyAccountPageTest"/>
+      <class name="com.qa.CNBC.tests.ProfilePageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
